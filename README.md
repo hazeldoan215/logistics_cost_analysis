@@ -68,7 +68,7 @@ Total Delivery Cost = Successful-delivery (internal) cost
 
 Built in Power BI Desktop (2 report pages).
 
-![Dashboard overview](dashboard/dashboard_overview.png)
+![Dashboard overview](dashboard_overview.png)
 
 **Page 1: Dashboard (executive view)**
 - KPI cards: total cost, volume, cost per shipment, OTD, failed rate, outsourced share
